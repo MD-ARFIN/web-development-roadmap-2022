@@ -1,4 +1,4 @@
-# Web development roadmap & trends 2021
+# Web development roadmap & trends 2022
 Collection of useful video courses and list of resources which helped me to create roadmap.
 
 ### Video tutorials:
